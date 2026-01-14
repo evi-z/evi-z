@@ -25,6 +25,7 @@
   🐍 Backend: Python (Django and other frameworks)<br/> 
   🕸 Frontend: JavaScript/TypeScript, Vue (Quasar)<br/> 
   🧠 Curious by nature — always happy to learn something new<br/>
+  ☕ Currently learning <b>Kotlin</b><br/>
   🥳 Fun fact: my collection includes a production PyQt desktop app
 </p>
 
