@@ -21,7 +21,7 @@
 ###
 
 <p align="left"> 
-  👋 I'm a Full-Stack developer<br/> 
+  👋 I'm a Backend-focused Fullstack Developer<br/> 
   🐍 Backend: Python (Django and other frameworks)<br/> 
   🕸 Frontend: JavaScript/TypeScript, Vue (Quasar)<br/> 
   🧠 Curious by nature — always happy to learn something new<br/>
