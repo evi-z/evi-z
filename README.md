@@ -1,59 +1,47 @@
 <div align="center">
 
-# Hey, I'm Igor 👋
+# 👋 Hey! Nice to see you.
 
-**Python Backend Developer** · Saint Petersburg, Russia
+`Python` · `Django / DRF` · `PostgreSQL` · `Vue` · `TypeScript`
 
-I build and maintain production systems — from data models and APIs to deployment and operations.  
-**Python · Django / DRF · PostgreSQL** are my core tools. **Vue / TypeScript** is my fullstack edge.
-
-[**Telegram**](https://t.me/ezeviz) · [**Email**](mailto:i@evizzz.ru)
+Backend-first, fullstack when needed.  
+I like building useful things, exploring new tools, and figuring out how systems work.
 
 </div>
 
 ---
 
-### What I do
-
-- **Backend engineering:** API design, data modeling, integrations, background jobs, testing, and evolving existing systems.
-- **End-to-end ownership:** turning requirements into working software, making technical decisions, and keeping systems running in production.
-- **AI-assisted development:** designing agent workflows and automation to accelerate engineering, with deliberate review of code, decisions, and results.
-- **Beyond backend:** building product interfaces with Vue and TypeScript when it makes sense.
-
-I have **5+ years of commercial development experience**, primarily with Python-based business systems and integrations.
-
-### Selected public projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/evi-z/telegram_summarizer">Telegram Summarizer</a></strong><br/>
-      <sub>Python · aiogram · async SQLAlchemy · PostgreSQL · LLM integration</sub>
-      <p>A Telegram bot project for summarizing chat conversations with language models. Exploring asynchronous processing, data persistence, and LLM integration.</p>
-      <sub>🚧 Work in progress</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong><a href="https://github.com/evi-z/day_wallet">Day Wallet</a></strong><br/>
-      <sub>Django / DRF · Vue 3 / Quasar · TypeScript · CouchDB · Docker</sub>
-      <p>A personal finance web application combining a Python backend, a TypeScript frontend, and a containerized environment.</p>
-      <sub>🚧 Work in progress</sub>
-    </td>
-  </tr>
-</table>
-
-Most of my production engineering experience comes from commercial systems and private codebases; these are personal projects, not a complete list of my work.
-
-### Tools I work with
-
-| | |
-| --- | --- |
-| **Backend & data** | Python, Django / DRF, PostgreSQL, SQL, pytest, Redis, Celery, ARQ |
-| **Infrastructure** | Docker, Linux, nginx, Git |
-| **Frontend** | Vue, TypeScript, JavaScript, Quasar |
-| **Also exploring & building with** | FastAPI, async Python, LLM integrations, AI agents and developer workflows |
-
----
+### 🛠️ Languages, Frameworks & Tools
 
 <div align="center">
-  <sub>Good software is more than code that works — it should be understandable, maintainable, and reliable.</sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+</div>
+
+### 🤖 AI & experiments
+
+Interested in **AI-assisted development, agent workflows, LLM integrations, and developer automation** — especially where they make everyday engineering more effective.
+
+### 🔧 Side projects
+
+- **[Telegram Summarizer](https://github.com/evi-z/telegram_summarizer)** — experimenting with chat summarization using Python, aiogram, async SQLAlchemy, and LLM APIs. 🚧
+- **[Day Wallet](https://github.com/evi-z/day_wallet)** — personal finance app with Django / DRF, Vue / Quasar, TypeScript, and CouchDB. 🚧
+
+<div align="center">
+
+<sub>Always something to build, break, or rethink. ⚡</sub>
+
 </div>
