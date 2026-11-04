@@ -2,14 +2,19 @@
 
 # 👋 Hey! Nice to see you.
 
-`Python` · `Django / DRF` · `PostgreSQL` · `Vue` · `TypeScript`
-
-Backend-first, fullstack when needed.  
-I like building useful things, exploring new tools, and figuring out how systems work.
+`Python` · `Django / DRF` · `FastAPI` · `PostgreSQL` · `Vue` · `TypeScript`
 
 </div>
 
 ---
+
+### 👨‍💻 About me
+
+- 🐍 Backend-focused fullstack developer. Mostly Python, Django / DRF, FastAPI and PostgreSQL.
+- 🕸 Frontend: TypeScript, Vue (Quasar).
+- 🤖 Currently building and configuring **autonomous AI agents** — tools, instructions and workflows.
+- 🔌 Tinkering with **ESP-based embedded systems**.
+- 🥳 Fun fact: my collection includes a **production PyQt desktop app**.
 
 ### 🛠️ Languages, Frameworks & Tools
 
@@ -18,30 +23,19 @@ I like building useful things, exploring new tools, and figuring out how systems
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="Django" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="38" alt="Vue" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="38" alt="Qt" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="Linux" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
-</div>
-
-### 🤖 AI & experiments
-
-Interested in **AI-assisted development, agent workflows, LLM integrations, and developer automation** — especially where they make everyday engineering more effective.
-
-### 🔧 Side projects
-
-- **[Telegram Summarizer](https://github.com/evi-z/telegram_summarizer)** — experimenting with chat summarization using Python, aiogram, async SQLAlchemy, and LLM APIs. 🚧
-- **[Day Wallet](https://github.com/evi-z/day_wallet)** — personal finance app with Django / DRF, Vue / Quasar, TypeScript, and CouchDB. 🚧
-
-<div align="center">
-
-<sub>Always something to build, break, or rethink. ⚡</sub>
-
 </div>
