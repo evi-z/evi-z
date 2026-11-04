@@ -2,7 +2,7 @@
 
 # 👋 Hey! Nice to see you.
 
-`Python` · `Django / DRF` · `FastAPI` · `PostgreSQL` · `Vue` · `TypeScript`
+`Python` · `Django / DRF` · `FastAPI` · `Vue` · `TypeScript`
 
 </div>
 
