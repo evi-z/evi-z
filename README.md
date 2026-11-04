@@ -12,7 +12,7 @@
 
 - 🐍 Backend-focused fullstack developer. Mostly Python, Django / DRF, FastAPI and PostgreSQL.
 - 🕸 Frontend: TypeScript, Vue (Quasar).
-- 🤖 Currently building and configuring **autonomous AI agents** — tools, instructions and workflows.
+- 🤖 Building and tweaking **autonomous AI agents** — for coding, personal projects, and everyday life.
 - 🔌 Tinkering with **ESP-based embedded systems**.
 - 🥳 Fun fact: my collection includes a **production PyQt desktop app**.
 
