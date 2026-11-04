@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About me
 
-- 🐍 Backend-focused fullstack developer. Mostly Python, Django / DRF, FastAPI and PostgreSQL.
+- 🐍 Backend is my home turf, but I know my way around a complex frontend too.
 - 🕸 Frontend: TypeScript, Vue (Quasar).
 - 🤖 Building and tweaking **autonomous AI agents** — for coding, personal projects, and everyday life.
 - 🔌 Messing around with **ESP32**, microcontrollers and embedded projects.
